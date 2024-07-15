@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Tue Nov 21 11:41:54 EST 2023
-#Tue Nov 21 11:41:54 EST 2023
+#Last Saved on: Mon Jul 15 01:06:02 EDT 2024
+#Mon Jul 15 01:06:02 EDT 2024
 LaunchControlLaunch\ Control\ /\ Flat\ shift_Y=102
 LaunchControlLaunch\ Control\ /\ Flat\ shift_X=489
 Shitbox.veTable1Tbl_std_xAxisMin=800.0
@@ -90,6 +90,7 @@ tachoTacho_height=175
 CommSettingDESKTOP-OMCF0QPCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
 engine_constantsEngine\ Constants_height=519
 accelEnrichmentsAcceleration\ Enrichment_height=500
+ecuUid=6f8ee28c-cef7-4c25-920d-4916348b3069
 idleSettingsIdle\ Settings_width=372
 veTableDialogVE\ Table_height=533
 fanSettingsFan\ Settings_Y=224
@@ -135,7 +136,6 @@ sparkTblIgnition\ Advance\ Table_X=95
 useCommonTuneViewDir=false
 airdensity_curveIAT\ density\ correction_height=359
 projectDescription=-1996 Impreza, EJ22E with 251 heads, phase 1 wiring
-firmwareDescription=Speeduino 2019.03
 useCommonDashboardDir=false
 warmup_curve_Set\ X\ Axis\ Minimum=-40.0
 fuelpumpFuel\ pump_Y=286
@@ -171,5 +171,5 @@ warmupWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_width=626
 protocolEnvelope=
 afrTable1TblAFR\ Table_Y=181
 afrTable1TblAFR\ Table_X=560
-projectName=Shitbox
+projectName=Speeduino-Impreza-Project
 LaunchControlLaunch\ Control\ /\ Flat\ shift_height=515
