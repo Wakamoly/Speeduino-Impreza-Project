@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.2.03 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;" writeDate="Wed Jul 24 19:50:03 EDT 2024"/>
+<bibliography author="TunerStudio MS 3.2.03 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;" writeDate="Wed Jul 24 20:48:31 EDT 2024"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2024.02.1" nPages="15" signature="speeduino 202402"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -473,11 +473,11 @@
          175.0 
          162.0 
          151.0 
-         143.0 
-         125.0 
-         120.0 
-         115.0 
-         110.0 
+         108.0 
+         104.0 
+         102.0 
+         101.0 
+         100.0 
          100.0 
       </constant>
 <constant digits="0" name="crankingPct" units="%">20.0</constant>
@@ -562,13 +562,13 @@
       </constant>
 <constant cols="1" digits="0" name="aseCount" rows="4" units="s">
          19.0 
-         16.0 
-         13.0 
-         10.0 
+         9.0 
+         4.0 
+         1.0 
       </constant>
 <constant cols="1" digits="0" name="aseBins" rows="4" units="F">
          -38.214 
-         -7.614 
+         4.986 
          42.786 
          109.386 
       </constant>
@@ -789,11 +789,11 @@
          -14.814 
          15.786 
          44.586 
-         75.186 
-         100.386 
+         71.586 
+         98.586 
          118.386 
          136.386 
-         154.386 
+         156.186 
          175.986 
       </constant>
 <constant digits="0" name="dwellLim" units="ms">8.0</constant>
