@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS 3.2.03 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;" writeDate="Wed Oct 09 16:13:28 EDT 2024"/>
+<bibliography author="TunerStudio MS 3.2.03 - EFI Analytics, Inc." tuneComment="&lt;html&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &lt;br&gt;Restore Point: TunerStudio settings before accepting Controller values in a Difference Report. - &#10;" writeDate="Wed Oct 09 16:08:32 EDT 2024"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2024.02.1" nPages="15" signature="speeduino 202402"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -492,7 +492,7 @@
 <constant digits="0" name="maeMinChange" units="kPa">2.0</constant>
 <constant name="displayB1">"RPM"</constant>
 <constant name="displayB2">"RPM"</constant>
-<constant digits="1" name="reqFuel" units="ms">3.5</constant>
+<constant digits="1" name="reqFuel" units="ms">13.2</constant>
 <constant digits="0" name="divider">2.0</constant>
 <constant name="alternate">"Alternating"</constant>
 <constant name="crkngAddCLTAdv">"Yes"</constant>
